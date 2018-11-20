@@ -1,0 +1,17 @@
+   Call: (8) excites('AZD8055', _3640, down, ***) ? creep
+   Call: (9) perturbes('AZD8055', _3640, down, ***) ? creep
+   Exit: (9) perturbes('AZD8055', 'ACLY(S455)', down, ***) ? creep
+   Call: (9) down=up ? creep
+   Fail: (9) down=up ? creep
+   Redo: (9) perturbes('AZD8055', _3640, down, ***) ? creep
+   Exit: (9) perturbes('AZD8055', 'ARHGEF12(S1288)', down, ***) ? creep
+   Call: (9) down=up ? creep
+   Fail: (9) down=up ? creep
+   Redo: (9) perturbes('AZD8055', _3640, down, ***) ? creep
+   Exit: (9) perturbes('AZD8055', 'CEP170B(S421)', down, ***) ? creep
+   Call: (9) down=up ? creep
+   Fail: (9) down=up ? creep
+   Redo: (9) perturbes('AZD8055', _3640, down, ***) ? creep
+   Fail: (9) perturbes('AZD8055', _3640, down, ***) ? creep
+   Fail: (8) excites('AZD8055', _3640, down, ***) ? creep
+false.
